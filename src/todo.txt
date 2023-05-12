@@ -1,0 +1,2 @@
+1. Change all phone number and email to userId except for signin
+2. Rename vars to make more sense

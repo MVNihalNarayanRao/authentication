@@ -1,0 +1,5 @@
+name = "easytravel_api_cloudflare"
+main = "src/index.js"
+compatibility_date = "2023-04-26"
+node_compat = true
+type = "webpack"
